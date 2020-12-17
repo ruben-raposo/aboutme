@@ -12,15 +12,14 @@
 #theme: jekyll-theme-cayman
 
 
-title: Ruben Raposo Portfolio # your name (or website title) here
+title: Ruben Raposo # your name (or website title) here
 author: Ruben Raposo
 logo: "/images/1516823704353.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Dynamics CRM Consultant
   <br><br>
-  Second description 
+  Portugal
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
+  <a href="hhttps://www.linkedin.com/in/ruben-raposo-77557b96/">View My LinkedIn Profile</a>     
+theme: jekyll-theme-cayman
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
