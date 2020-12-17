@@ -1,14 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Ruben Raposo # your name (or website title) here
+author: Ruben Raposo
+logo: "/images1516823704353.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <b>Dynamics CRM Consultant</b>
   <br><br>
-  Second description 
+  Portugal
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
-#theme: jekyll-theme-minimal
+  <a href="hhttps://www.linkedin.com/in/ruben-raposo-77557b96/">View My LinkedIn Profile</a>     
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-baseurl: "/aboutme"
-url: "https://ruben-raposo.github.io"
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
