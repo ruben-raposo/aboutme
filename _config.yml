@@ -8,6 +8,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="hhttps://www.linkedin.com/in/ruben-raposo-77557b96/">View My LinkedIn Profile</a>     
 theme: jekyll-theme-minimal
-#baseurl: /aboutme
+baseurl: /
 #url: https://ruben-raposo.github.io
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
